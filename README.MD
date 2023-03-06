@@ -9,5 +9,6 @@ npm run install-dependencies
 ```sh
 npm start
 ```
+click demo app to explore the project
 
 - visit url http://localhost:3000/
