@@ -22,10 +22,9 @@ const Landing = () => {
               job <span>hunting</span> app
             </h1>
             <p>
-              I'm baby wayfarers hoodie next level taiyaki brooklyn cliche blue
-              bottle single-origin coffee chia. Aesthetic post-ironic venmo,
-              quinoa lo-fi tote bag adaptogen everyday carry meggings +1 brunch
-              narwhal.
+            Welcome to our job hunting landing page! We understand how challenging and overwhelming job hunting can be, 
+            and we're here to make it easier for you. Our platform connects job seekers like you with the right 
+            opportunities and resources to help you succeed in your career search.
             </p>
             <Link to='/register' className='btn btn-hero'>
               Login/Register
